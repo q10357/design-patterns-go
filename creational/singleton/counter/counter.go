@@ -1,4 +1,4 @@
-package singleton
+package counter
 
 //https://medium.com/@ramseyjiang_22278/singleton-design-pattern-in-golang-with-unit-tests-324952bdc77f
 
