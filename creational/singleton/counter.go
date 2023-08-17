@@ -45,5 +45,5 @@ func GetInstance() *singleton {
 		fmt.Println("Singleton instance already initialized.")
 	}
 
-	return nil
+	return instance
 }
